@@ -13,7 +13,7 @@ Aqui estão algumas informações rápidas do que você irá encontrar:
 
 - 📚 Estudando <strong>Node.JS</strong> com <strong>TypeScript</strong> e <strong>Angular</strong>
 
-- <img href="https://tenor.com/search/monkeydluffy-gifs">Viciado em <strong>Animes</strong> e fanático por <strong>ONE PIECE</strong>
+- <img href="https://tenor.com/view/monkey-dluffy-one-piece-amazed-wow-gif-17401300">Viciado em <strong>Animes</strong> e fanático por <strong>ONE PIECE</strong>
 
 
 ### Me encontre 🔍
