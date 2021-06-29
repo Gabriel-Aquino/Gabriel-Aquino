@@ -13,7 +13,7 @@ Aqui estão algumas informações rápidas do que você irá encontrar:
 
 - 📚 Estudando <strong>Node.JS</strong> com <strong>TypeScript</strong> e <strong>Angular</strong>
 
-- ![alt text]<img src="https://media.giphy.com/media/SEaKNxJgOfU76/giphy.gif" width="50" height="50" /> Viciado em <strong>Animes</strong> e fanático por <strong>ONE PIECE</strong>
+- <img src="https://media.giphy.com/media/SEaKNxJgOfU76/giphy.gif" width="50" height="50" /> Viciado em <strong>Animes</strong> e fanático por <strong>ONE PIECE</strong>
 
 
 ### Me encontre 🔍
