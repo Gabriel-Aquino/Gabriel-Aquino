@@ -7,7 +7,7 @@ Aqui estão algumas informações rápidas do que você irá encontrar:
 	 🌎 Impeatriz, MA, BR
 	 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Aquino&count_private=true&show_icons=true&theme=radical" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Aquino&layout=compact&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Aquino&show_icons=true&theme=radical" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Aquino&layout=compact&theme=radical" />
 
 ### Esse sou eu 😀
 
