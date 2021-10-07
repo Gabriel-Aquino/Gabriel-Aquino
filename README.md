@@ -3,7 +3,7 @@
 
 Aqui estão algumas informações rápidas do que você irá encontrar:
 
-	 💻 Analista de Sistemas Jr. na Unimed
+	 💻 Analista de Sistemas Jr. na Unimed Maranhão do Sul
 	 🎓 Formado em Sistemas de Informação
 	 🌎 Impeatriz, MA, BR
 	 
