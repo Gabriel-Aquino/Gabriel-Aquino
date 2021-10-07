@@ -16,7 +16,7 @@ Aqui estão algumas informações rápidas do que você irá encontrar:
 
 - Apaixonado por software livre e programação! 😍
 
-- <img src="https://media.giphy.com/media/nQDKSeRlIyfmw/giphy.gif" width="30" height="30" /> Viciado em <strong>Animes</strong> e fanático por <strong>ONE PIECE</strong>
+- Viciado em <strong>Animes</strong> e fanático por <strong>ONE PIECE</strong><img src="https://media.giphy.com/media/nQDKSeRlIyfmw/giphy.gif" width="30" height="30" />
 
 
 ### Me encontre 🔍
