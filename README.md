@@ -4,6 +4,7 @@
 Aqui estão algumas informações rápidas do que você irá encontrar:
 
 	 💻 Analista de Sistemas Jr. na Unimed
+	 🎓 Formado em Sistemas de Informação
 	 🌎 Impeatriz, MA, BR
 	 
 
@@ -12,6 +13,8 @@ Aqui estão algumas informações rápidas do que você irá encontrar:
 ### Esse sou eu 😀
 
 - 📚 Estudando <strong>Node.JS</strong> com <strong>TypeScript</strong> e <strong>Angular</strong>
+
+- Apaixonado por software livre e programação! 😍
 
 - <img src="https://media.giphy.com/media/nQDKSeRlIyfmw/giphy.gif" width="30" height="30" /> Viciado em <strong>Animes</strong> e fanático por <strong>ONE PIECE</strong>
 
