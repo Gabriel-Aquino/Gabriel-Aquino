@@ -12,8 +12,7 @@ Aqui estão algumas informações rápidas do que você irá encontrar:
 
 ### Esse sou eu 😀
 
-- 📚 Estudando <strong>Node.JS</strong> com <strong>TypeScript</strong> e <strong>Angular</strong>
-
+- 📚 Estudando <strong>Node.JS</strong> com <strong>TypeScript</strong>
 - Apaixonado por software livre e programação! 😍
 
 - Viciado em <strong>Animes</strong> e fanático por <strong>ONE PIECE</strong><img src="https://media.giphy.com/media/nQDKSeRlIyfmw/giphy.gif" width="30" height="30" />
@@ -24,6 +23,6 @@ Aqui estão algumas informações rápidas do que você irá encontrar:
 <p align="center">
 
   <a target="_blank" href="https://www.linkedin.com/in/gabrielaquinocastelobranco/">![Linkedin](https://img.shields.io/badge/-linkedin-0098D9?style=flat-square&logo=linkedin)</a>
-  <a target="_blank" href="https://www.instagram.com/_.gabrielaquino._">![Instagram](https://img.shields.io/badge/-instagram-F0F0F0?style=flat-square&logo=instagram)</a>
+  <a target="_blank" href="https://www.instagram.com/__gabrielaquino__">![Instagram](https://img.shields.io/badge/-instagram-F0F0F0?style=flat-square&logo=instagram)</a>
 
 </p>
