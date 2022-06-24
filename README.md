@@ -1,4 +1,4 @@
-## Olá! Me chamo Gabriel Aquino Castelo Branco <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">😀
+## Olá! Me chamo Gabriel Aquino Castelo Branco <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="5px">😀
 #### Seja bem-vindo ao meu GitHub
 
 Aqui estão algumas informações rápidas do que você irá encontrar:
