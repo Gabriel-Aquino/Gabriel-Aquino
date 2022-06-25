@@ -17,15 +17,17 @@
 - 📫 How to reach me **gabrielaquinocastelobranco@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/0B3PJEf7MuBpueDNraGFLaVRfcXZLMHlXdHZOSEp0UVZEWGpz/edit?usp=sharing&ouid=111508183766650070334&resourcekey=0-swD9vAXzgorpt2IBmXTCVw&rtpof=true&sd=true](https://docs.google.com/document/d/0B3PJEf7MuBpueDNraGFLaVRfcXZLMHlXdHZOSEp0UVZEWGpz/edit?usp=sharing&ouid=111508183766650070334&resourcekey=0-swD9vAXzgorpt2IBmXTCVw&rtpof=true&sd=true)
-- 
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_iamaquino_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_iamaquino_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/http://linkedin.com/in/gabrielaquinocastelobranco/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/gabrielaquinocastelobranco/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gabrielaquinocastelobranco/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielaquinocastelobranco/" height="30" width="40" /></a>
 <a href="https://instagram.com/__gabrielaquino__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__gabrielaquino__" height="30" width="40" /></a>
 <a href="https://discord.gg/Gabriel-Aquino#9097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Gabriel-Aquino#9097" height="30" width="40" /></a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,6 +35,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-aquino&show_icons=true&locale=en&layout=compact" alt="gabriel-aquino" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-aquino&show_icons=true&locale=en" alt="gabriel-aquino" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-aquino&" alt="gabriel-aquino" /></p>
